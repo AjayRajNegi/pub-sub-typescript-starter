@@ -1,1 +1,5 @@
 node_modules
+
+ "rabbit:start": "bash ./src/scripts/rabbit.sh start",
+ "rabbit:stop": "bash ./src/scripts/rabbit.sh stop",
+ "rabbit:logs": "bash ./src/scripts/rabbit.sh logs"
